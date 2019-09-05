@@ -1,0 +1,15 @@
+@Charset="utf-8";
+
+section#conteudo {
+	width: 900px;
+	margin: auto;
+}
+iframe#frameproduto {
+	width: 440;
+	height: 264px;
+	border: none;
+	overflow: hidden;
+}
+iframe#frameproduto::-webkt-scrollbar {
+	display: none;
+}

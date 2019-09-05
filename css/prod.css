@@ -1,0 +1,29 @@
+@Charset="utf-8";
+
+body {
+	background-color:LightSkyBlue;
+	
+}
+
+table {
+	background-color:yellow;
+}
+
+th {
+	font-size:20px;
+	font-family:Aharoni;
+}
+
+h1 {
+	text-align:center;
+	font-family:Aharoni;
+}
+
+p{
+	font-size:16px;
+	text-align:center;
+}
+
+a {
+	font-size:20px;
+}
